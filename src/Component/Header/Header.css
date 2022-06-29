@@ -1,0 +1,23 @@
+.navbg {
+    background-color: #1abc9c;
+    margin-bottom: 40px;
+  }
+ .logo {
+    color: white;
+    font-size: 35px;
+    text-decoration: none;
+}
+.logo:hover{
+color: white;
+}
+.menu li a {
+    font-size: 20px;
+    color: white!important;
+}
+.menu li{
+    margin-left:20px;
+}
+.btncol {
+    color: white;
+    border: 1px solid white;
+}
